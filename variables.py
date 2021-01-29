@@ -1,13 +1,5 @@
 # Taken day number from user
 weekday = int(input("Enter weekday day number (1-7) : "))
-Mon=1
-Tue=2
-Wen=3
-Thur=4
-Fri=5
-Sat=6
-Sun=7
-
 if weekday == 1 :
     print("\nMon");
 
